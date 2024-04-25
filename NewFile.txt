@@ -1,0 +1,1 @@
+A new file I opened to test git CLI
