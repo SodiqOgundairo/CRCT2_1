@@ -1,1 +1,3 @@
-A new file I opened to test git CLI
+Version control has taken over
+
+I edited this file
